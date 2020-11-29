@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\WinCleaner\bin\x64\Release\WinCleaner.exe.config
+C:\Users\Administrator\Desktop\WinCleaner\bin\x64\Release\WinCleaner.exe
+C:\Users\Administrator\Desktop\WinCleaner\bin\x64\Release\WinCleaner.pdb
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Release\Interop.Shell32.dll
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Release\WinCleaner.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Release\WinCleaner.MainForm.resources
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Release\WinCleaner.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Release\WinCleaner.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Release\WinCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Release\WinCleaner.exe
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Release\WinCleaner.pdb
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Release\WinCleaner.csprojAssemblyReference.cache
