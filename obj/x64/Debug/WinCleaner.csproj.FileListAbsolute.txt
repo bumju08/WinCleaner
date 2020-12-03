@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\WinCleaner\bin\x64\Debug\WinCleaner.exe.config
+C:\Users\Administrator\Desktop\WinCleaner\bin\x64\Debug\WinCleaner.exe
+C:\Users\Administrator\Desktop\WinCleaner\bin\x64\Debug\WinCleaner.pdb
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Debug\WinCleaner.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Debug\Interop.Shell32.dll
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Debug\WinCleaner.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Debug\WinCleaner.MainForm.resources
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Debug\WinCleaner.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Debug\WinCleaner.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Debug\WinCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Debug\WinCleaner.exe
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Debug\WinCleaner.pdb
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Administrator\Desktop\WinCleaner\obj\x64\Debug\WinCleaner.addStartup.resources
